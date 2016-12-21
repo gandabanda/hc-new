@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Hazim Consulting - International Expertise, Local Experience</title>
+    <title>111 Hazim Consulting - International Expertise, Local Experience</title>
     <meta name="description" content="Hazim Consulting - International Expertise, Local Experience">
     <meta name="author" content="Hazim Consulting">
     <meta name="keywords" content="">
@@ -9,7 +9,6 @@
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
-
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
