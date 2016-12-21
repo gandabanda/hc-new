@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>1 Hazim Consulting - International Expertise, Local Experience</title>
+    <title>Hazim Consulting - International Expertise, Local Experience</title>
     <meta name="description" content="Hazim Consulting - International Expertise, Local Experience">
     <meta name="author" content="Hazim Consulting">
     <meta name="keywords" content="">
